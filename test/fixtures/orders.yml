@@ -3,9 +3,4 @@
 one:
   name: MyString
   price: 1
-  customer: 
-
-two:
-  name: MyString
-  price: 1
-  customer: 
+  customer:
